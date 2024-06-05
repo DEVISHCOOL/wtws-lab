@@ -1,0 +1,84 @@
+html
+head
+h1
+centerALL STYLE SHEETScenter
+h1
+title INTERNAL and EXTERNAL STYLESHEETS title
+link rel=stylesheet href=xyz.css type=textcss
+style type=textcssh3
+{
+font-family Georgia, 'Times New Roman', Times, serif;font-style bold; color rgb(121, 65, 232);text-align
+center; }
+. vid {
+font-family verdana;font-style italic; color red; text-align center
+}
+.ani {
+font-family tahoma;font-style italic; font-size 20; text-align center;
+}
+font {
+font-family georgia;color blue; font-size 20
+}
+ 
+ul {
+list-style-type circle
+}
+style
+head
+body
+ol style=list-style-type lower-alpha
+bDr MGR Educational and Research Instituteb
+liDr MGR Educational and Research Institute
+liThai Moogambigai Dental College and Hospital
+liACS Medical College & Hospital
+ol
+p style=font-size20pt; color purpleDr MGR Educational and Research Institutep
+p class=aniDr. M.G.R. Engineering College was founded in 1988.brDr. M.G.R. Educational and Research Institute is a private deemed to be university located in Chennai, TamilNadu, India. brp
+
+h2 class=vidDr MGR Educational and Research Instituteh2
+br
+fontIt received its deemed to be university status in 2003.font
+br
+font
+h2List of Courses offeredh2
+ul
+liITli
+liCSEli
+liEceli
+liMechli
+liEEEli
+liICEli
+liBioTechli
+liChemli
+liME-CSEli
+ 
+liME_AEli
+liMBAli
+liMCAli
+ul
+font
+h3Results of CSE Studentsh3
+table width=100% cellspacing=2 cellpadding=2 border=5
+tr
+thSTUDENT NAMESth
+thMARKSth
+thRESULTth
+tr
+tr
+td align=centerSUDHARSHANtd
+td align=center100td
+td align=centerPasstd
+tr
+tr
+td align=centerSHYAMtd
+td align=center99td
+td align=centerpasstd
+tr
+tr
+td align=centerVISHUtd
+td align=center98td
+td align=centerpasstd
+tr
+table
+body
+html
+

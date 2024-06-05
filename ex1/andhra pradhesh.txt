@@ -1,0 +1,21 @@
+Andhrapradesh.Html 
+<Html> 
+<Head> 
+<Title>About Andhra Pradesh</Title> 
+</Head> 
+<Body> 
+<Center><H1>Andhra Pradesh</H1></Center> 
+<Hr> 
+<Ul> 
+<Li>Area : 2,75,068 Sq. Kms</Li> 
+<Li>Capital : Hyderabad</Li> 
+<Li>Language : Telugu</Li> 
+<Li>Population : 7,57,27,541</Li> 
+211191101020 BHARGAVI.V.D 4 
+ 
+ 
+<Li>Done By : BHARGAVI.V.D</Li> 
+</Hr> 
+<A Href='Imagemap.Html'>India Map</A> 
+</Body> 
+</Html>
